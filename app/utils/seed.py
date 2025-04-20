@@ -58,6 +58,94 @@ def seed_data():
                 "benefits": "Protection et rappel de la dépendance envers Allah pendant le voyage.",
                 "category": "Travel",
                 "audio_url": "http://localhost:5000/static/audio/travel_1.mp3"
+            },
+            {
+                "title": "Avant de manger",
+                "arabic": "بِسْمِ اللَّهِ",
+                "phonetic": "Bismillah",
+                "translation_fr": "Au nom d’Allah.",
+                "translation_wo": "Ci turu Yàlla.",
+                "reference": "Bukhari",
+                "benefits": "Commencer son repas avec le nom d’Allah pour obtenir Sa bénédiction.",
+                "category": "Daily",
+                "audio_url": "http://localhost:5000/static/audio/invocation_06.mp3"
+            },
+            {
+                "title": "Après avoir mangé",
+                "arabic": "الْـحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا، وَرَزَقَنِيهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+                "phonetic": "Alhamdu lillahil-ladhi at’amani hadha wa razaqanihi min ghayri hawlin minni wa la quwwah",
+                "translation_fr": "Louange à Allah qui m’a nourri cela et me l’a accordé sans force ni puissance de ma part.",
+                "translation_wo": "Yàlla mooy may lekk bii, du manoon ma, moo ko may ci kaw moom.",
+                "reference": "Abu Dawud",
+                "benefits": "Exprime gratitude et reconnaissance après un repas.",
+                "category": "Daily",
+                "audio_url": "http://localhost:5000/static/audio/invocation_07.mp3"
+            },
+            {
+                "title": "Avant d’entrer aux toilettes",
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+                "phonetic": "Allahumma inni a'udhu bika minal-khubthi wal-khaba'ith",
+                "translation_fr": "Ô Allah, je cherche protection auprès de Toi contre les démons mâles et femelles.",
+                "translation_wo": "Yàlla, maa la nangu fiir ci xel gu bon ak rab yi.",
+                "reference": "Bukhari",
+                "benefits": "Demande protection contre les impuretés spirituelles.",
+                "category": "Daily",
+                "audio_url": "http://localhost:5000/static/audio/invocation_08.mp3"
+            },
+            {
+                "title": "En sortant des toilettes",
+                "arabic": "غُفْرَانَكَ",
+                "phonetic": "Ghufranak",
+                "translation_fr": "Je Te demande pardon.",
+                "translation_wo": "Maa la ñaan wér gu yàgg.",
+                "reference": "Abu Dawud",
+                "benefits": "Exprime humilité et gratitude après avoir accompli un besoin naturel.",
+                "category": "Daily",
+                "audio_url": "http://localhost:5000/static/audio/invocation_09.mp3"
+            },
+            {
+                "title": "Quand on entend le tonnerre",
+                "arabic": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ",
+                "phonetic": "Subhana alladhi yusabbihur-ra'du bihamdihi wal-mala’ikatu min khifatih",
+                "translation_fr": "Gloire à Celui que le tonnerre loue ainsi que les anges par crainte de Lui.",
+                "translation_wo": "Na Yàlla yégluwul boroom kaw ak asamaan yi ci naxari suuf, ak malaika.",
+                "reference": "Muwatta Malik",
+                "benefits": "Renforce la conscience de la grandeur d’Allah face à la nature.",
+                "category": "Daily",
+                "audio_url": "http://localhost:5000/static/audio/invocation_10.mp3"
+            },
+            {
+                "title": "En entrant à la mosquée",
+                "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+                "phonetic": "Allahumma iftah li abwaba rahmatik",
+                "translation_fr": "Ô Allah, ouvre-moi les portes de Ta miséricorde.",
+                "translation_wo": "Yàlla, ubbi ma bunt yërmande ya.",
+                "reference": "Muslim",
+                "benefits": "Invoque la miséricorde divine à l’entrée dans un lieu sacré.",
+                "category": "Home",
+                "audio_url": "http://localhost:5000/static/audio/invocation_11.mp3"
+            },
+            {
+                "title": "En sortant de la mosquée",
+                "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+                "phonetic": "Allahumma inni as’aluka min fadlik",
+                "translation_fr": "Ô Allah, je Te demande de Ta grâce.",
+                "translation_wo": "Yàlla, maa la ñaan sa niroo.",
+                "reference": "Muslim",
+                "benefits": "Demande bénédiction après un acte d’adoration.",
+                "category": "Home",
+                "audio_url": "http://localhost:5000/static/audio/invocation_12.mp3"
+            },
+            {
+                "title": "Lorsque l’on voit une personne malade",
+                "arabic": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
+                "phonetic": "La ba’sa, tahoorun in sha Allah",
+                "translation_fr": "Pas de mal, purification si Allah le veut.",
+                "translation_wo": "Duñu am lu bon, bu Yàlla ko bëgg baax na.",
+                "reference": "Bukhari",
+                "benefits": "Remonte le moral du malade tout en se rappelant la sagesse divine.",
+                "category": "Daily",
+                "audio_url": "http://localhost:5000/static/audio/invocation_13.mp3"
             }
         ]
 
