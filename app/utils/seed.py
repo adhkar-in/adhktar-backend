@@ -18,7 +18,7 @@ def seed_data():
             {
                 "title": "Avant de dormir",
                 "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
-                "phonetic": "Bismika Allahumma amoutu wa ahya",
+                "phonetic": "Bismika Allahumma amoutu wa ahya ",
                 "translation_fr": "C’est en Ton nom, ô Allah, que je meurs et que je vis.",
                 "translation_wo": "Ci sa tur laa dee te des, Yàlla.",
                 "reference": "Bukhari",
