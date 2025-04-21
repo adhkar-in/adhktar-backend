@@ -68,7 +68,7 @@ def seed_data():
                 "reference": "Bukhari",
                 "benefits": "Commencer son repas avec le nom d’Allah pour obtenir Sa bénédiction.",
                 "category": "Daily",
-                "audio_url": "http://localhost:5000/static/audio/invocation_06.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "Après avoir mangé",
@@ -79,7 +79,7 @@ def seed_data():
                 "reference": "Abu Dawud",
                 "benefits": "Exprime gratitude et reconnaissance après un repas.",
                 "category": "Daily",
-                "audio_url": "http://localhost:5000/static/audio/invocation_07.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "Avant d’entrer aux toilettes",
@@ -90,7 +90,7 @@ def seed_data():
                 "reference": "Bukhari",
                 "benefits": "Demande protection contre les impuretés spirituelles.",
                 "category": "Daily",
-                "audio_url": "http://localhost:5000/static/audio/invocation_08.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "En sortant des toilettes",
@@ -101,7 +101,7 @@ def seed_data():
                 "reference": "Abu Dawud",
                 "benefits": "Exprime humilité et gratitude après avoir accompli un besoin naturel.",
                 "category": "Daily",
-                "audio_url": "http://localhost:5000/static/audio/invocation_09.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "Quand on entend le tonnerre",
@@ -112,7 +112,7 @@ def seed_data():
                 "reference": "Muwatta Malik",
                 "benefits": "Renforce la conscience de la grandeur d’Allah face à la nature.",
                 "category": "Daily",
-                "audio_url": "http://localhost:5000/static/audio/invocation_10.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "En entrant à la mosquée",
@@ -123,7 +123,7 @@ def seed_data():
                 "reference": "Muslim",
                 "benefits": "Invoque la miséricorde divine à l’entrée dans un lieu sacré.",
                 "category": "Home",
-                "audio_url": "http://localhost:5000/static/audio/invocation_11.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "En sortant de la mosquée",
@@ -134,7 +134,7 @@ def seed_data():
                 "reference": "Muslim",
                 "benefits": "Demande bénédiction après un acte d’adoration.",
                 "category": "Home",
-                "audio_url": "http://localhost:5000/static/audio/invocation_12.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             },
             {
                 "title": "Lorsque l’on voit une personne malade",
@@ -145,7 +145,7 @@ def seed_data():
                 "reference": "Bukhari",
                 "benefits": "Remonte le moral du malade tout en se rappelant la sagesse divine.",
                 "category": "Daily",
-                "audio_url": "http://localhost:5000/static/audio/invocation_13.mp3"
+                "audio_url": "https://res.cloudinary.com/dbozhll2f/video/upload/v1745242970/matin_1.mp3"
             }
         ]
 
